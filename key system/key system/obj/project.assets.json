@@ -664,24 +664,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dave9\\.nuget\\packages\\": {},
+    "C:\\Users\\lfb08\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\Fontys\\Key-system\\key system\\key system\\key system.csproj",
+      "projectUniqueName": "D:\\Projects - Hard Drive\\OnHold Projects\\Key-system\\key system\\key system\\key system.csproj",
       "projectName": "key system",
-      "projectPath": "D:\\School\\Fontys\\Key-system\\key system\\key system\\key system.csproj",
-      "packagesPath": "C:\\Users\\dave9\\.nuget\\packages\\",
-      "outputPath": "D:\\School\\Fontys\\Key-system\\key system\\key system\\obj\\",
+      "projectPath": "D:\\Projects - Hard Drive\\OnHold Projects\\Key-system\\key system\\key system\\key system.csproj",
+      "packagesPath": "C:\\Users\\lfb08\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects - Hard Drive\\OnHold Projects\\Key-system\\key system\\key system\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\dave9\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\lfb08\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
